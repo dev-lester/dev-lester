@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on as a Software Engineer @Zipeli
-- 🌱 I’m currently learning about Reactive Programming
+- 🌱 I’m currently learning about Reactive Programming and Cloud Computing
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with AI/Machine Learning
 - 💬 Ask me about IOT and Angular
