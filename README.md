@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Software Development
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with AI/Machine Learning
-- 💬 Ask me about IOT and Angular
+- 💬 Ask me about IOT
 - 📫 How to reach me: lesters821@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love coffee ☕
