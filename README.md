@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Software Engineer @Zipeli
+- 🔭 I’m currently working as a Web Developer @Maxwealth
 - 🌱 I’m currently learning Vuejs
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with AI/Machine Learning
