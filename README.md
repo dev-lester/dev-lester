@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Web Developer @MaxwealthInfinity
+- 🔭 I’m currently working as a Software Developer @MaxwealthInfinity
 - 🌱 I’m currently learning Vuejs
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with AI/Machine Learning
@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love coffee ☕
 
-<!--
+<!--Cancel changes
 **dev-lester/dev-lester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
