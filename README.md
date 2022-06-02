@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a Software Developer @MaxwealthInfinity
-- 🌱 I’m currently learning Vuejs, Vuex, Nuxtjs
+- 🌱 I’m currently learning Vuejs, Vuex, Nuxtjs, API Integration
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with AI/Machine Learning
 - 💬 Ask me about IOT
