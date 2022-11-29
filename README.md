@@ -3,8 +3,7 @@
 - 🔭 I’m currently working as a Frontend Developer @epon-digital
 - 🌱 I’m currently learning Vuejs, Vuex, Nuxtjs, API Integration and Design Patterns
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with AI/Machine Learning
-- 💬 Ask me about IOT
+- 🤔 I’m Interested in Embedded software engineering
 - 📫 How to reach me: lesters821@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love coffee ☕
