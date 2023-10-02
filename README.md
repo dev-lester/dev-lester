@@ -1,6 +1,6 @@
 ### Hi there 👋
 - # 💫 About Me:
-- 🔭 I’m currently working as a Software Developer in Shipping Company
+- 🔭 I’m currently working as a Software Developer in a Shipping Company
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m Interested in Embedded software engineering
 - 📫 How to reach me: lesters821@gmail.com
